@@ -4,6 +4,8 @@ These files were used for the demonstrations of my sessions at Visual Studio Liv
 
 The file Getting Your Story Straight.pbix contains examples of different styles of visualizations that I discussed in the session titled Getting Your Story Straight with Data Visualizations. No additional setup is required. All data required for the demonstration has been imported into the PBIX file and does not require a refresh to view and interact with the visualizations.
 
+The file Sales and Marketing story originally came from Microsoft and created by Obvience, but I can no longer find the original link from which I downloaded it. It provides examples of how you might structure a data story in Power BI. 
+
 The file Customer Analysis Final.pbix contains examples of visualizations used to demonstration basic analytical concepts in Power BI as I discussed in the session titled Making the Leap from Reporting to Data Analysis. If you're not interested in the R visualizations, you can ignore the setup instructions below and Power BI will not render those pages of the report.  To view the R visualizations, you need to have a local installation of R. In my demonstration, I used R Services in Microsoft SQL Server 2019 and my environment setup is described below.
 
 My environment
